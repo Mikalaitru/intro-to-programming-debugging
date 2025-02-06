@@ -68,7 +68,7 @@ function hideAllMessages() {
     messages[elementIndex].style.display = 'none';
   }
 }
-// Misspelled "function"
+// Misspelled "function "
 function setup() {
   // Get random number
   targetNumber = getRandomNumber(1, 100);
