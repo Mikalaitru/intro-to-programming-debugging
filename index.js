@@ -79,7 +79,7 @@ function setup() {
   maxNumberOfAttempts <= 5;
 
   // Enable the input and submit button
-  //misspelled "disabled"
+  //misspelled "disabled!"
   submitButton.disabled = false;
   guessInput.disabled = false;
 
